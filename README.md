@@ -33,19 +33,18 @@ Este proyecto ha sido desarrollado como Trabajo Fin de Grado (TFG) del Grado en 
 ## Estructura del proyecto
 
 chatbot_ciberseguridad/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-└── knowledge/
-    ├── phishing.txt
-    ├── malware.txt
-    ├── ransomware.txt
-    ├── wifi.txt
-    ├── passwords.txt
-    ├── mfa.txt
-    └── siem.txt
+
+- app.py
+- requirements.txt
+- README.md
+  - knowledge/
+    - phishing.txt
+    - malware.txt
+    - ransomware.txt
+    - wifi.txt
+    - passwords.txt
+    - mfa.txt
+    - siem.txt
 
 ## Funcionamiento
 
