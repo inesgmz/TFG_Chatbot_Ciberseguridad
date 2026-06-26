@@ -1,0 +1,18 @@
+El ransomware es un tipo de malware diseñado para cifrar archivos o bloquear sistemas con el objetivo de exigir un rescate económico a cambio de recuperar el acceso.
+
+Este tipo de amenaza suele propagarse mediante correos electrónicos maliciosos, archivos adjuntos infectados, vulnerabilidades del sistema o descargas no seguras.
+
+Los indicadores más comunes incluyen:
+- Archivos cifrados o inaccesibles
+- Cambios en las extensiones de archivos
+- Aparición de mensajes de rescate
+- Comportamiento anómalo del sistema
+
+Ante una posible infección, se recomienda:
+- Aislar el dispositivo de la red
+- No pagar el rescate
+- Restaurar copias de seguridad si existen
+- Notificar el incidente
+- Analizar el sistema con herramientas de seguridad
+
+La prevención incluye actualizaciones periódicas, copias de seguridad y formación en ciberseguridad.

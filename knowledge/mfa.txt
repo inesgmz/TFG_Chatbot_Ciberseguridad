@@ -1,0 +1,16 @@
+La autenticación multifactor (MFA) es un mecanismo de seguridad que requiere más de un método de verificación para acceder a un sistema o servicio.
+
+Normalmente combina:
+- Algo que el usuario sabe (contraseña)
+- Algo que el usuario tiene (móvil o token)
+- Algo que el usuario es (biometría)
+
+El uso de MFA reduce significativamente el riesgo de acceso no autorizado incluso si la contraseña ha sido comprometida.
+
+Los métodos más utilizados incluyen:
+- Aplicaciones de autenticación
+- Códigos SMS
+- Llaves físicas de seguridad
+- Biometría
+
+Se recomienda habilitar MFA especialmente en cuentas corporativas, servicios críticos y accesos remotos.

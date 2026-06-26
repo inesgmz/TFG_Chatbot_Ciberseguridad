@@ -1,0 +1,15 @@
+Un sistema SIEM (Security Information and Event Management) permite recopilar, centralizar y analizar eventos de seguridad procedentes de múltiples fuentes, como servidores, aplicaciones, firewalls y dispositivos de red.
+
+Los SIEM ayudan a detectar amenazas mediante:
+- Correlación de eventos
+- Generación de alertas
+- Análisis de patrones
+- Supervisión en tiempo real
+
+Entre sus ventajas destacan:
+- Visibilidad centralizada
+- Detección temprana de incidentes
+- Mejora de la respuesta ante amenazas
+- Facilitar auditorías y cumplimiento normativo
+
+Los SIEM son utilizados habitualmente en centros de operaciones de seguridad (SOC) para monitorizar actividades sospechosas y responder a incidentes de seguridad.

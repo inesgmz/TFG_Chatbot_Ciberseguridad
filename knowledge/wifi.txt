@@ -1,0 +1,12 @@
+El uso de redes WiFi públicas puede implicar riesgos de seguridad debido a que otros usuarios conectados a la misma red podrían interceptar comunicaciones o realizar ataques de tipo man-in-the-middle (MITM).
+
+Entre los riesgos más comunes se encuentran el robo de credenciales, la captura de tráfico no cifrado y la distribución de malware. Las redes abiertas o mal configuradas aumentan significativamente la exposición del usuario.
+
+Para reducir riesgos, se recomienda:
+- Utilizar conexiones HTTPS
+- Evitar introducir credenciales sensibles
+- Emplear redes privadas virtuales (VPN)
+- Desactivar la conexión automática a redes abiertas
+- Mantener el sistema actualizado
+
+En entornos corporativos, es recomendable utilizar dispositivos gestionados y aplicar políticas de seguridad específicas para conexiones remotas.
